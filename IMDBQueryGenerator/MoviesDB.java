@@ -1,8 +1,6 @@
 // Author       :   Alex Kourkoumelis
 // Date         :   5/28/2019
 // Title        :   IMDB Query Generator
-// Class        :   CS401, Algorithms
-// Assignment   :   Assignment 3
 // Description  :   Develop a movie database and query generator for IMDB movie data.
 //              :   Stores .csv data into an array of Movie objects.
 //              :   Creates RedBlackTrees of each field, with the key being the
